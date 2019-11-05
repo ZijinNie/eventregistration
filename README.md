@@ -1,1 +1,2 @@
 # eventregistration
+A Java project
